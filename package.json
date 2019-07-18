@@ -1,0 +1,16 @@
+{
+  "name": "apple-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "-ghpages -d website"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://anitaewesiobi.github.io/airpodslandingpage",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
